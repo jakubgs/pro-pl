@@ -1,0 +1,34 @@
+baseURL = "http://pro-pl.pl/"
+relativeURLs = true
+languageCode = "pl-eu"
+title = "Polski Ruch Obywatelski"
+theme = "blueberry-detox"
+
+[params]
+    title = "Polski Ruch Obywatelski"
+    logo = "images/logo_big_trans.png"
+
+[[menu.main]]
+    name = "O Nas"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Usługi"
+    url = "/services/"
+    weight = 2
+
+[[menu.main]]
+    name = "Zespół"
+    url = "/team/"
+    weight = 3
+
+[[menu.main]]
+    name = "Referencje"
+    url = "/testimonials/"
+    weight = 4
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 5
