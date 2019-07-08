@@ -1,4 +1,4 @@
-baseURL = "http://pro-pl.pl/"
+baseURL = "https://pro-pl.pl/"
 relativeURLs = true
 languageCode = "pl-eu"
 title = "PRO-PL"
